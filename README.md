@@ -27,4 +27,6 @@ Your words never leave your device.
 
 Robinhood Chain testnet. Vault: `0x4136881594De8661b0d4F005AdAFbce67F2FD018`. Every value can be changed on the page under Network settings.
 
+Source code and credits: [github.com/furtiveapp/furtive-protocol](https://github.com/furtiveapp/furtive-protocol) (`app/rescue`), GPL-3.0. Built on circom, snarkjs, Privacy Pools and LeanIMT.
+
 Questions: hello@furtive.app
