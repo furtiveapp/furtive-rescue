@@ -14,7 +14,7 @@ You will need your 12 words, a wallet address to receive your funds, and a small
 ## Verify your copy
 
 ```
-sha256  29d6ac239cac79f3bc22358be5c488645e0c9cbbd4a9e1707e87729794da518d  index.html
+sha256  50f7bae45ce4455851e9b4b6f29bd0cd67601b9087de4f9dd4d5c2e1c589cc4a  index.html
 ```
 
 ## How it works
